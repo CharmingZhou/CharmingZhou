@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharmingZhou
-- 👀 I’m interested in Chaos Engineering
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning MIT 6.824
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
